@@ -1,0 +1,16 @@
+/* pages/poem/poem.wxss */
+.title {
+  font-weight: bold;
+  font-size: 20px;
+  margin: 20px;
+  width: 100%;
+  text-align: center;
+}
+.poet {
+  width: 100%;
+  text-align: center;
+}
+.poem {
+  width: 100%;
+  text-align: center;
+}

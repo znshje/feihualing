@@ -1,0 +1,6 @@
+<!--pages/poem/poem.wxml-->
+<view class='container'>
+<view class='title'><text>{{title}}</text></view>
+<view><text class='poet'>{{poet}}</text></view>
+<view><text class='poem'>{{poem}}</text></view>
+</view>

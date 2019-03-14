@@ -1,0 +1,14 @@
+<!--index.wxml-->
+<view class="container">
+  <view>
+    <block>
+      <text class="title">飞花令</text>
+    </block>
+  </view>
+  <view>
+    <form bindsubmit='onSearch'>
+      <view class="input-box"><input name='key' value=''  placeholder='关键字'></input></view>
+      <button style='margin-top: 50px;' form-type='submit'>搜索</button>
+    </form>
+  </view>
+</view>
